@@ -6,5 +6,6 @@ Python RESTful Web Services
 * description
     `Web` `REST` `Django`
     This repository is all about this book
-    (/Images/IMG_1066.jpg)
+    
+    ![](/Images/IMG_1066.jpg)
 * FileLists with subDescription
